@@ -1,4 +1,4 @@
-# plutonium-server-sniffer
+# plutonium-server-sniffer *DEPRECATED*
 
 It searches for a plutonium server from website given criteria, and signals a beep when found.
 
